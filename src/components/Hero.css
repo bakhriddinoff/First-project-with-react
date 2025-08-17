@@ -1,0 +1,36 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-side {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+}
+
+.top-wrapper {
+    display: flex;
+    justify-content: start;
+    gap: 20px;
+}
+
+h1 {
+    font-size: 72px;
+    line-height: 1.2;
+}
+
+.text1 {
+    text-decoration: none;
+}
+
+.btn1 {
+    width: 160px;
+    height: 48px;
+    border: transparent;
+    border-radius: 20px;
+    background-color: #FFAE33;
+    font-weight: bold;
+    font-size: 18px;
+}
