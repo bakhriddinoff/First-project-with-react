@@ -1,0 +1,48 @@
+.section1 {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading1 {
+    font-size: 48px;
+    line-height: 1.2;
+}
+
+.wrapper {
+    display: flex;
+    gap: 200px;
+    padding-top: 60px;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    gap: 20px;
+    padding-top: 40px;
+}
+
+.headinger1 {
+    font-size: 32px;
+}
+
+
+.btn-wrapper {
+    padding-top: 100px;
+}
+
+.btn2 {
+    width: 162px;
+    height: 32px;
+    border-radius: 10px;
+    border: transparent;
+    background-color: #FFAE33;
+    font-weight: 550;
+} 
+
+.btn3 {
+    background-color:#FFB0AE ;
+}
