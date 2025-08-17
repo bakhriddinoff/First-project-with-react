@@ -5,7 +5,7 @@ function Project() {
     return (
         <div className="section1">
             <h2 className='heading1'>Select project, <br/> start coding</h2>
-            <div className="wrapper">
+            <div className="wrapper1">
                 <div className="left">
                     <h3 className='headinger1'>Think CI/CD for dev environments</h3>
                     <p className="text1">We invented prebuilds so application code, configuration and <br /> infrastructure can all be stored as machine-executable code <br /> in your git repositories and applied to dev environments <br /> automatically and continuously.</p>
