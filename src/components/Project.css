@@ -32,6 +32,8 @@
 
 .btn-wrapper {
     padding-top: 100px;
+    display: flex;
+    gap: 20px;
 }
 
 .btn2 {

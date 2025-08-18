@@ -1,0 +1,30 @@
+.section2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.heading2 {
+    font-size: 42px;
+}
+
+.btn-wrapper2 {
+    display: flex;
+    gap: 20px;
+    padding-top: 40px;
+}
+
+.btn4 {
+    width: 199px;
+    height: 47px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: white;
+    border: transparent;
+}
